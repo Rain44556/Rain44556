@@ -5,6 +5,16 @@
   <img height="300" src="https://i.ibb.co.com/NFnqv8X/developer.jpg"  />
 </div>
 
+<div align="left">
+  <a href="https://leetcode.com/problemset/" target="_blank">
+    <img src="https://i.ibb.co.com/VWFqpcq/c.png" height="24" alt="codeforce logo"  />
+  </a>
+  <a href="https://codeforces.com/profile/Archer00" target="_blank">
+    <img src="https://i.ibb.co.com/ftgzqMm/ll.png" height="23" alt="leetcode logo"  />
+  </a>
+</div>
+
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
