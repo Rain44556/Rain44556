@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I graduated with a background in IoT research and microcontroller projects, and I am now exploring the exciting world of web development! As a junior developer, I am eager to continue learning and growing my skills in these areas!</p>
+<p align="left">I have completed my bachelors in Electrical and Electronic Engineering. I have experience in  IoT research and microcontroller projects, and I am now exploring the exciting world of web development! As a junior developer, I am eager to continue learning and growing my skills in these areas!</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bris-ty-b09707262/" target="_blank">
