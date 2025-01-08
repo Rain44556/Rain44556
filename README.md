@@ -10,25 +10,13 @@
 
 <p align="left">I have completed my bachelors in Electrical and Electronic Engineering. I have experience in  IoT research and microcontroller projects, and I am now exploring the exciting world of web development! As a junior developer, I am eager to continue learning and growing my skills in these areas!</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bris-ty-b09707262/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=yellow&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Rain44556" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=yellow&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="mailto:your-bristy44556@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=yellow&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 
 <h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
