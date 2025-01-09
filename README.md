@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img width="1000" height="450" src="https://i.ibb.co.com/6Dk45ZC/banner.jpg"  />
+  <img width="1000" height="450" src="https://i.ibb.co.com/XJjsS3K/banner-github.jpg"  />
 </div>
 
 <div align="left">
@@ -64,13 +64,13 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Rain44556&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+  <a href="https://git.io/streak-stats"><img src="https://follownaim-streak-stats.vercel.app?user=Rain44556" alt="GitHub Streak" /></a>
+  </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rain44556&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rain44556&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rain44556&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
