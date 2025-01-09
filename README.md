@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img width="1000" height="450" src="https://i.ibb.co.com/XJjsS3K/banner-github.jpg"  />
+  <img width="1000" height="450" src="https://i.ibb.co.com/M82CfhV/github-banner.jpg"  />
 </div>
 
 <div align="left">
