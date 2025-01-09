@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/6Dk45ZC/banner.jpg"  />
+  <img width="1000" height="450" src="https://i.ibb.co.com/6Dk45ZC/banner.jpg"  />
 </div>
 
 <div align="left">
