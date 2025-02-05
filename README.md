@@ -19,7 +19,17 @@
 
 ###
 
-<p align="left">I have completed my bachelors in Electrical and Electronic Engineering. I have experience in  IoT research and microcontroller projects, and I am now exploring the exciting world of web development! As a junior developer, I am eager to continue learning and growing my skills in these areas!</p>
+<p align="left">I have completed my bachelors in Electrical and Electronic Engineering. I have experience in  IoT research and microcontroller projects, and I am now exploring the exciting world of web development! As a junior developer, I’m excited to keep expanding my knowledge and improving my skills in these areas!</p>
+
+###
+
+<h3 align="left">✨ Current Activities</h3>
+
+###
+
+<li align="left">Recently exploring TanStack Query to improve my data fetching and state management skills in React applications.</li>
+<li align="left">Exploring New Tools and libraries like "ShadCN UI", Formik, and React Hook Form </li>
+<li align="left">Exploring Next.js at a beginner level.</li>
 
 ###
 
@@ -79,6 +89,24 @@
 </div>
 
 ###
+<h3 align="left"> 🔗 Social Links</h3>
+
+###
+<div align="left">
+<a href="https://www.linkedin.com/in/bris-ty/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  /></a>
+
+<a href="https://wa.me/01787621395" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="whatsapp logo"  /></a>
+  
+  <a href="https://discord.com/users/bristy44556" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  /></a>
+  
+<a href="mailto:bristy44556@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  /></a>
+</div>
+
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -96,3 +124,4 @@
 </div>
 
 ###
+
