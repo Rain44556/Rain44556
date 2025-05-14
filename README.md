@@ -29,7 +29,7 @@
 
 <li align="left">Recently exploring TanStack Query to improve my data fetching and state management skills in React applications.</li>
 <li align="left">Exploring New Tools and libraries like "ShadCN UI", Formik, and React Hook Form </li>
-<li align="left">Exploring Next.js at a beginner level.</li>
+<li align="left">Exploring Redux at a beginner level.</li>
 
 ###
 
