@@ -27,9 +27,9 @@
 
 ###
 
-<li align="left">Recently exploring TanStack Query to improve my data fetching and state management skills in React applications.</li>
-<li align="left">Exploring New Tools and libraries like "ShadCN UI", Formik, and React Hook Form </li>
-<li align="left">Exploring Redux at a beginner level.</li>
+<li align="left">Recently exploring web animation techniques using GSAP, Locomotive Scroll, ScrollTrigger, and advanced text scroll effects.</li>
+<li align="left">Diving into TypeScript and Next.js to strengthen full-stack development skills.</li>
+<li align="left">Learning the fundamentals of Redux for state management.</li>
 
 ###
 
