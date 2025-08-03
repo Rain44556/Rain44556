@@ -7,10 +7,10 @@
 
 <div align="left">
   <a href="https://leetcode.com/problemset/" target="_blank">
-    <img src="https://i.ibb.co.com/VWFqpcq/c.png" height="24" alt="codeforce logo"  />
+  <img src="https://i.ibb.co.com/ftgzqMm/ll.png" height="23" alt="leetcode logo"  />
   </a>
   <a href="https://codeforces.com/profile/Archer00" target="_blank">
-    <img src="https://i.ibb.co.com/ftgzqMm/ll.png" height="23" alt="leetcode logo"  />
+     <img src="https://i.ibb.co.com/VWFqpcq/c.png" height="24" alt="codeforce logo"  />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
 
 
 <div>
-   <h4>Proggramming Languege</h4>
+   <h4>Programming Languege</h4>
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
