@@ -125,7 +125,7 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rain44556&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rain44556"/>
 </div>
 
 
